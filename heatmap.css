@@ -1,0 +1,14 @@
+body {
+    align-items: center;
+    text-align: center;
+    background-color: rgb(183, 177, 177);
+}
+
+svg {
+    background-color: rgb(201, 201, 213);
+    font-size: x-large;
+}
+span {
+    font-size:larger;
+    font-weight: bolder;
+}
